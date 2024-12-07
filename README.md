@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:24/11/24
+# Date:20/11/24
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -576,6 +576,8 @@ Execute the programs and publish them.
 </html>
 ~~~
 # OUTPUT
+![Screenshot 2024-12-07 104613](https://github.com/user-attachments/assets/6a8b4f20-9622-4ba1-942d-9ce90a150f61)
+
 ![Screenshot 2024-12-07 040057](https://github.com/user-attachments/assets/dcf0b4ba-6726-4a11-9b00-2e3d33c1706f)
 ![Screenshot 2024-12-07 040119](https://github.com/user-attachments/assets/c37ae6f9-a235-4e0d-b3b8-5ee5e4b19e20)
 ![Screenshot 2024-12-07 040139](https://github.com/user-attachments/assets/663e6742-0a54-475c-a9b3-6f13a005598e)
